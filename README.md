@@ -1,1 +1,1 @@
-# one
+# The front-end and back-end login interfaces are mainly separated; Using the interface of school educational administration system to release personal dynamics; It is used to share personal learning or life status and view system recommendation trends; Dynamic hot list of people concerned by users, search dynamic personal data, modify users' private chat comments; Focus, like and other functions
